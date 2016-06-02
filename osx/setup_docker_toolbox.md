@@ -1,6 +1,7 @@
 # Setup  docker toolbox on osx
 
-```# Install Homebrew
+```
+# Install Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 # Install Cask
 brew install caskroom/cask/brew-cask
@@ -17,4 +18,5 @@ docker-machine start docker-vm
 eval "$(docker-machine env docker-vm)"
 
 # at this point can run any "docker" or "docker-compose" commands you want
-docker run hello-world```
+docker run hello-world
+```
