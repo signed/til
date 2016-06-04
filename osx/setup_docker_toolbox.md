@@ -9,7 +9,7 @@ brew install caskroom/cask/brew-cask
 brew cask install dockertoolbox
 
 # create the docker machine
-docker-machine create --driver "virtualbox" myBoxName
+docker-machine create --driver "virtualbox" docker-vm
 
 # start the docker machine
 docker-machine start docker-vm
