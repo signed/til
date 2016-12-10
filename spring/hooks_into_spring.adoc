@@ -1,0 +1,14 @@
+= Hooks into spring
+
+= Spring
+[horizontal]
+BeanFactoryPostProcessor:: Enables changes to the metadata to create the bean.
+BeanPostProcessor:: Enables changes to new bean instances before they can be used.
+
+= Spring Boot
+META-INF/spring.factories
+
+[horizontal]
+EnvironmentPostProcessor:: Enables changes to the Environment as well as the SpringApplication before it is actually started.
+
+
