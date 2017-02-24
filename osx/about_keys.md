@@ -13,7 +13,7 @@
 ## Finder
 
 ```
-shift + cmd + g open dialog to enter pa
+shift + cmd + g open dialog to enter a path
 ```
 
 ## Short Cuts ##
