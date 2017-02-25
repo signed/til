@@ -12,7 +12,7 @@ echo . ${FILE} >> ~/.profile
 Update the `PS1` environment variable to display what you want to see in the [prompt][documentation].
 
 ````
-echo $'export PS1=\'\w$(__git_ps1\\n\'' >> ~/.profile
+echo $'export PS1=\'\D{%a %H:%M} $(pwd)$(__git_ps1)\\n\'' >> ~/.profile
 ````
 
 
