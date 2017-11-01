@@ -1,4 +1,6 @@
 # About keys on macOS
+^ is the ctrl key
+
 ## Keyboard ##
 
 ```
@@ -26,4 +28,3 @@ cmd + ß               fold
 cmd + ´               unfold
 cmd + shift +  <- ->  Resize windows
 ```
-
