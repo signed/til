@@ -8,3 +8,5 @@ $$("header")
 ```
 $x(".//header")
 ```
+## special pages
+- chrome://webrtc-internals/
