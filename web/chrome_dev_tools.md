@@ -10,3 +10,6 @@ $x(".//header")
 ```
 ## special pages
 - chrome://webrtc-internals/
+- chrome://gpu/
+- chrome://settings
+- chrome://flags
