@@ -8,6 +8,12 @@ $$("header")
 ```
 $x(".//header")
 ```
+
+## Access the currently selected dom element in console
+```
+$0
+```
+
 ## special pages
 - chrome://webrtc-internals/
 - chrome://gpu/
