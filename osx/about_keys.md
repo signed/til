@@ -1,8 +1,9 @@
 # About keys on macOS
-^ is the ctrl key
-⌘ is the command key
-⌥ is the option/alt key
-⇧ is the shift keys
+- ^ is the ctrl key
+- ⌘ is the command key
+- ⌥ is the option/alt key
+- ⇧ is the shift key
+
 ## Keyboard ##
 
 ```
