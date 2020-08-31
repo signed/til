@@ -19,3 +19,4 @@ $0
 - chrome://gpu/
 - chrome://settings
 - chrome://flags
+- chrome://net-internals/#hsts [to reset HTTP strict transport security](https://stackoverflow.com/a/28586593) 
