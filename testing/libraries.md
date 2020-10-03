@@ -9,5 +9,7 @@
 ## [faker.js](https://github.com/marak/Faker.js/)
 - Have not used this one yet
 
+## [nock](https://github.com/nock/nock) http server stub
+
 [tag-web]: <https://example.org> 'web' 
 [tag-typescript]: <https://example.org> 'typescript'
