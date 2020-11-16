@@ -31,3 +31,4 @@
 - command + w
 
 https://www.youtube.com/watch?v=9AMcN-wkspU
+https://www.youtube.com/watch?v=eq3KiAH4IBI
