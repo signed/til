@@ -29,6 +29,7 @@
 - command + shift + v
 - local history
 - command + w
+- command + shift + backspace last edited location
 
 https://www.youtube.com/watch?v=9AMcN-wkspU
 https://www.youtube.com/watch?v=eq3KiAH4IBI
