@@ -17,3 +17,14 @@ git branch -r --list '*pattern*' | sed 's/origin\///' | xargs -I {} git push --d
 ```shell
 git push origin local-branch-name:remote-branch-name --force-with-lease
 ```
+
+## Clean working copy but keep some files
+
+```shell
+git clean -dx --exclude .idea/ --exclude node_modules 
+```
+## List all branches by last commiter and sort them by age
+
+```shell
+git branch --list  -r | xargs -n 1 git log -n 1 --pretty="%cn %ct %ar %S" | sort
+```
