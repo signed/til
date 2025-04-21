@@ -1,5 +1,5 @@
-# How to shell into a running docker image
+# How to shell into docker image
 
 ````shell
-docker exec -it <image id> bash
+docker run -it <image id> /bin/sh
 ````
