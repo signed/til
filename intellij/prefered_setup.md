@@ -35,7 +35,6 @@
 
 * Explicitly check for incoming commits on remotes **Never**
 
-
 # Plugins
 
 - [Additional Java Refactorings](https://plugins.jetbrains.com/plugin/17656-additional-java-refactorings)
@@ -49,3 +48,8 @@
 - [PlantUML Integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
 - [Diagrams.net Integration](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)
 - [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
+
+## Explore
+
+- [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
+- [React Buddy](https://plugins.jetbrains.com/plugin/17467-react-buddy)
