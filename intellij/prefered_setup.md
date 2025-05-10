@@ -1,10 +1,10 @@
 # [Settings](https://www.jetbrains.com/help/idea/settings-preferences-dialog.html)
 
-## Appearance & Behavior
+## [Appearance & Behavior](https://www.jetbrains.com/help/idea/appearance-and-behavior.html)
 
 ### [Presentation Assistant](jetbrains://idea/settings?name=Appearance+%26+Behavior--Presentation+Assistant)
 
-## Editor
+## [Editor](https://www.jetbrains.com/help/idea/settings-editor.html)
 
 ### [General](https://www.jetbrains.com/help/idea/settings-editor-general.html)
 
