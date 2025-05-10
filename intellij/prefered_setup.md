@@ -18,7 +18,7 @@
 
 ### Font
 
-* Font [Fira Code]
+* Font [JetBrains Mono] or [Fira Code]
 * [X] Enable font ligatures
 
 #### Refactorings
