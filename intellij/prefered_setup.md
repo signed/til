@@ -1,4 +1,4 @@
-# Settings
+# [Settings](https://www.jetbrains.com/help/idea/settings-preferences-dialog.html)
 
 ## Appearance & Behavior
 
@@ -6,7 +6,7 @@
 
 ## Editor
 
-### General
+### [General](https://www.jetbrains.com/help/idea/settings-editor-general.html)
 
 * [X] Show virtual space at file bottom
 
@@ -29,8 +29,23 @@
 
 * [X] Use "CamelHumps" words
 
-# Version Control
+## Version Control
 
-## [Git](https://www.jetbrains.com/help/idea/settings-version-control-git.html)
+### [Git](https://www.jetbrains.com/help/idea/settings-version-control-git.html)
 
 * Explicitly check for incoming commits on remotes **Never**
+
+
+# Plugins
+
+- [Additional Java Refactorings](https://plugins.jetbrains.com/plugin/17656-additional-java-refactorings)
+
+- [Gherkin](https://plugins.jetbrains.com/plugin/9164-gherkin)
+- [Cucumber for Java](https://plugins.jetbrains.com/plugin/7212-cucumber-for-java)
+
+- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
+- [.env files](https://plugins.jetbrains.com/plugin/9525--env-files)
+
+- [PlantUML Integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
+- [Diagrams.net Integration](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)
+- [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
