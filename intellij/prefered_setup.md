@@ -28,3 +28,9 @@
 #### Smart Keys
 
 * [X] Use "CamelHumps" words
+
+# Version Control
+
+## [Git](https://www.jetbrains.com/help/idea/settings-version-control-git.html)
+
+* Explicitly check for incoming commits on remotes **Never**
