@@ -49,6 +49,8 @@
 - [Diagrams.net Integration](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)
 - [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
 
+- [Project Wide Analysis](https://plugins.jetbrains.com/plugin/26698-project-wide-analysis)
+
 ## Explore
 
 - [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
