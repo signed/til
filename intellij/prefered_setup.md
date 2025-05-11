@@ -55,3 +55,4 @@
 
 - [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
 - [React Buddy](https://plugins.jetbrains.com/plugin/17467-react-buddy)
+- [Spring Debugger](https://plugins.jetbrains.com/plugin/25302-spring-debugger)
