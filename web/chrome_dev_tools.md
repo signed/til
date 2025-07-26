@@ -16,6 +16,9 @@ $0
 
 ## special pages
 - chrome://webrtc-internals/
+- chrome://version details about the current version like
+  - profile path
+  - command line arguments
 - chrome://gpu/
 - chrome://settings
 - chrome://flags
