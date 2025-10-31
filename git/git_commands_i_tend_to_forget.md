@@ -1,9 +1,15 @@
 # Git commands I tend to forget
 
+## List all branches by last commiter and sort them by age
+
+```shell
+git branch --remotes --list  | grep --invert-match ' ->' | xargs -n 1 git log -n 1 --pretty="%cn %ct %ar %S" | sort 
+```
+
 ## For all branches matching pattern print who did the last commit and when, oldest branch first
 
 ```shell
-git branch --list '*pattern*' --remotes | xargs -n 1 git log -n 1 --pretty="%ct %ar - %cn %D" | sort
+git branch --remotes --list '*pattern*'  | xargs -n 1 git log -n 1 --pretty="%ct %ar - %cn %D" | sort
 ```
 
 ## Delete branches matching a pattern in the remote repository
@@ -22,9 +28,4 @@ git push origin local-branch-name:remote-branch-name --force-with-lease
 
 ```shell
 git clean -dx --exclude .idea/ --exclude node_modules 
-```
-## List all branches by last commiter and sort them by age
-
-```shell
-git branch --list  --remotes | xargs -n 1 git log -n 1 --pretty="%cn %ct %ar %S" | sort
 ```
