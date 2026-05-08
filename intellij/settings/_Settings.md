@@ -1,0 +1,1 @@
+# [Settings](https://www.jetbrains.com/help/idea/settings-preferences-dialog.html)

@@ -1,5 +1,4 @@
-# Custom [Postfix Completion](https://www.jetbrains.com/help/idea/2026.1/postfix-code-completion.html)
-
+# Custom [Postfix Completion](https://www.jetbrains.com/help/idea/postfix-code-completion.html)
 
 ## Java
 
@@ -18,7 +17,7 @@ org.assertj.core.api.Assertions.assertThat($EXPR$).$END$
 
 - [x] use static import if possible
 
-### isEqualTo 
+### isEqualTo
 
 Applicable expression types:
 
@@ -42,6 +41,7 @@ org.assertj.core.api.Assertions.assertThat($EXPR$).isEqualTo($END$);
 ```
 expect($EXPR$).toBe($END$)
 ```
+
 ### toeq
 
 ```

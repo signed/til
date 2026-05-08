@@ -1,4 +1,4 @@
-# [Code Editing](https://www.jetbrains.com/help/idea/2026.1/code-editing.html)
+# [Code Editing](https://www.jetbrains.com/help/idea/code-editing.html)
 
 ---
 Refactorings
