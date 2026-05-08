@@ -8,13 +8,31 @@
 
 ### [General](https://www.jetbrains.com/help/idea/settings-editor-general.html)
 
+---
+Virtual Space
+---
+
 * [X] Show virtual space at file bottom
 
-#### On Save
+---
+On Save
+---
 
 * [X] Remove trailing spaces on: **Modified Lines**
 * [ ] Remove trailing blank lines at the end of saved files
 * [ ] Ensure every saved file ends with a line break
+
+---
+
+#### [Auto import](https://www.jetbrains.com/help/idea/2026.1/settings-auto-import.html)
+
+---
+[Java](https://www.jetbrains.com/help/idea/2026.1/settings-auto-import.html?reference.settingsdialog.IDE.editor.autoimport&keymap=IntelliJ%20IDEA%20Classic#java)
+---
+Exclude from auto-import and completion
+
+- com.sun
+- org.junit.Assert.assertThat
 
 ### Font
 
