@@ -1,17 +1,3 @@
-# [Settings](https://www.jetbrains.com/help/idea/settings-preferences-dialog.html)
-
-## [Appearance & Behavior](https://www.jetbrains.com/help/idea/appearance-and-behavior.html)
-
-### [Presentation Assistant](jetbrains://idea/settings?name=Appearance+%26+Behavior--Presentation+Assistant)
-
-## [Editor](https://www.jetbrains.com/help/idea/settings-editor.html)
-
-## Version Control
-
-### [Git](https://www.jetbrains.com/help/idea/settings-version-control-git.html)
-
-* Explicitly check for incoming commits on remotes **Never**
-
 # Plugins
 
 - [Additional Java Refactorings](https://plugins.jetbrains.com/plugin/17656-additional-java-refactorings)

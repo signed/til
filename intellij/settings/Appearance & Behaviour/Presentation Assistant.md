@@ -1,0 +1,4 @@
+- [ ] Show action names and shortcuts in popup
+- Popup size **small**
+- Display for **1** seconds
+- Position **bottom center**
